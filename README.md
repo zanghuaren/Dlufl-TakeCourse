@@ -53,10 +53,10 @@ pip install tabulate requests pandas wcwidth
 为减轻服务器压力，搜索功能须先使用功能菜单"5"更新数据，因此课程选择人数是下载时的情况而非实时。
 
 ## 主要功能运行截图
-<img width="1045" alt="Snipaste_2025-01-06_11-11-15" src="https://github.com/user-attachments/assets/002739c7-9695-41ea-826b-ea3b62f61b93" />
+<img width="813" alt="Snipaste_2025-01-06_11-11-15" src="https://github.com/user-attachments/assets/002739c7-9695-41ea-826b-ea3b62f61b93" />
 <img width="813" alt="Snipaste_2025-01-06_11-09-13" src="https://github.com/user-attachments/assets/4c275587-5781-4ec7-9db5-888f32a8e972" />
 <img width="813" alt="Snipaste_2025-01-06_11-10-11" src="https://github.com/user-attachments/assets/be0e85ec-eed8-4e76-bb1f-c3ad47b0d0ce" />
-<img width="807" alt="Snipaste_2025-01-06_11-28-51" src="https://github.com/user-attachments/assets/ca668c57-eba5-40f0-afd8-a93d7dec219c" />
+<img width="813" alt="Snipaste_2025-01-06_11-28-51" src="https://github.com/user-attachments/assets/ca668c57-eba5-40f0-afd8-a93d7dec219c" />
 
 
 
