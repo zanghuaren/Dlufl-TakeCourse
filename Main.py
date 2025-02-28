@@ -294,6 +294,7 @@ def main():
     提供多种选课模式，包括必修、选修、循环选课、查找公选课等功能。
     """
     pre_load()
+    # 分别为：必修选课请求网页，选修选课请求网页，选择公选课操作的请求地址。选择选修和必修操作请求地址，退课操作地址。
     url1 = 'http://jwgl.jiaowu.dlufl.edu.cn/jxjsxsd/xsxkkc/xsxkBxxk'
     url2 = 'http://jwgl.jiaowu.dlufl.edu.cn/jxjsxsd/xsxkkc/xsxkXxxk'
     url3 = 'http://jwgl.jiaowu.dlufl.edu.cn/jxjsxsd/xsxkkc/ggxxkxkOper'
